@@ -20,7 +20,7 @@ npm install strapi@latest -g
 bash
 Copy code
 strapi new my-project
-<h3>Set Up Database:</h3> Choose your preferred database (e.g., SQLite, MongoDB, PostgreSQL) and set it up accordingly in your Strapi project.
+<h3>Set Up Database:</h3> Choose your preferred database (e.g., SQLite, MongoDB, PostgreSQL) and set it up accordingly in your Strapi project.To build one with strapi, navigate to the new directory in bash, then type 'npm run develop'.
 <h3>Create Content Types:</h3> Create content types for your products in Strapi, defining the fields you need (e.g., name, country, cost, instock).
 <h3>Populate Database:</h3> Populate your database with product data using Strapi's content management system.
 <h3>Configure Strapi API:</h3> Once your content types are set up and your database is populated, configure your Strapi API endpoints.
