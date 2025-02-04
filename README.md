@@ -1,4 +1,4 @@
-<h1>React Shopping Cart App</h1>
+<h1><a href="https://sean-mongey.github.io/React-Shopping-Cart-/">React Shopping Cart App</a></h1>
 This is a simple React shopping cart app that allows users to view a list of products, add them to a shopping cart, view the cart contents, and check out.
 
 <h2>Languages Used</h2>
